@@ -3,7 +3,7 @@
 🏢Work Experience
 - - -
 2023.01.30 ~ 2025.08.20 Etron Co.,Ltd <br>
-2025.08.21 ~ Incom
+2025.08.21 ~ 2025.09.30 Incom
 <br><br>
 
 🖥️Tech Stack
