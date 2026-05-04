@@ -4,7 +4,7 @@
 - - -
 2023.01.30 ~ 2025.08.20 Etron Co.,Ltd <br>
 2025.08.21 ~ 2025.09.30 Incom <br>
-2026.05.04 ~ <br>
+2026.05.04 ~ Mobile Entropy<br>
 <br>
 
 🖥️Tech Stack
